@@ -13,7 +13,7 @@ Neural networks can act as universial approximators for complex non linear diffe
 
 Mathematically, this is called the [Universal approximation theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem)
 
-In the notebooks, essecially, we are building an universally approximator based on those 11 features that predict the chance of heart failure.
+In the notebook, essecially, we are building an universally approximator based on those 11 features that predict the chance of heart failure.
  
 ### Why you used the technologies you used?
 
