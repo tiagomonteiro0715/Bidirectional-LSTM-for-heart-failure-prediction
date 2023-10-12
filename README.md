@@ -49,15 +49,15 @@ Finding the best Hyperparameters for the model
 
 #### How to Install and Run the Project
 
-#### Reserach depedencies
+##### Reserach depedencies
 
 ```
 pip install pandas numpy ipykernel notebook scikit-learn torch lightning ipynbname
 ```
 
-## To install Jupyter Notebook and associate it with your virtual environment in Python, follow these steps:
+##### To install Jupyter Notebook and associate it with your virtual environment in Python, follow these steps:
 
-### 1. Create a Virtual Environment (if not already created):
+###### 1. Create a Virtual Environment (if not already created):
 If you haven't already created a virtual environment for your project, you can do so using virtualenv or venv. Here's an example using venv:
 
 ```
@@ -67,7 +67,7 @@ python -m venv myenv
 
 Replace ```myenv``` with the desired name for your virtual environment.
 
-### 2. Activate the Virtual Environment:
+###### 2. Activate the Virtual Environment:
 On Windows, activate the virtual environment using:
 
 ```
@@ -82,7 +82,7 @@ source myenv/bin/activate
 Replace ```myenv``` with the name of your virtual environment.
 
 
-### 3. Install Jupyter Notebook:
+###### 3. Install Jupyter Notebook:
 Once the virtual environment is activated, you can install Jupyter Notebook using pip:
 
 ```
@@ -90,7 +90,7 @@ pip install jupyter
 ```
 This will install Jupyter Notebook within your virtual environment.
 
-### 4. Verify Jupyter Installation:
+###### 4. Verify Jupyter Installation:
 To verify that Jupyter Notebook is installed in your virtual environment, you can run:
 
 
@@ -100,17 +100,17 @@ jupyter --version
 
 This should display the version of Jupyter Notebook installed within your virtual environment.
 
-### 5. Create a Jupyter Notebook Kernel for the Virtual Environment:
+###### 5. Create a Jupyter Notebook Kernel for the Virtual Environment:
 You need to create a Jupyter Notebook kernel that is associated with your virtual environment. This allows you to use the packages installed in your virtual environment within Jupyter Notebook.
 
-#### a. First, activate your virtual environment (if it's not already activated).
+###### a. First, activate your virtual environment (if it's not already activated).
 
-#### b. Install the ipykernel package within the virtual environment:
+###### b. Install the ipykernel package within the virtual environment:
 
 ```
 pip install ipykernel
 ```
-#### c. Now, you can create a Jupyter Notebook kernel for your virtual environment:
+###### c. Now, you can create a Jupyter Notebook kernel for your virtual environment:
 
 
 ```
@@ -119,7 +119,7 @@ python -m ipykernel install --user --name=myenv --display-name="name"
 
 Replace ```myenv``` with the name of your virtual environment and choose a suitable display name.
 
-### 6. Start Jupyter Notebook:
+###### 6. Start Jupyter Notebook:
 Now, you can start Jupyter Notebook from within your virtual environment:
 
 ```
