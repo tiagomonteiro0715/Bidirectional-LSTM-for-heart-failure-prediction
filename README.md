@@ -1,4 +1,4 @@
-# Lightning_heart_prediction
+# Bidirectional LSTM(Long Short Term memory) model for heart failure prediction
 
 https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 
