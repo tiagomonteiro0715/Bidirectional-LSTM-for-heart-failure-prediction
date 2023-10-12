@@ -136,7 +136,9 @@ This will open a new Jupyter Notebook session in your web browser, and you shoul
 
 It can be used as foundation for other time series classification models.
 
-With quantization, the model can be applied in sensores and small devices for IoT or microcontrolers
+With quantization, the model gets a lot smaller without pratically losing accuracy
+
+By being smaller, itcan be applied in sensores and small devices like IoT or microcontrolers
 
 </a>
 
