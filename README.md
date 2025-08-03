@@ -49,7 +49,7 @@ Finding the best Hyperparameters for the model
 
 #### How to Install and Run the Project
 
-##### Reserach depedencies
+##### Depedencies
 
 ```
 pip install pandas numpy ipykernel notebook scikit-learn torch lightning ipynbname
