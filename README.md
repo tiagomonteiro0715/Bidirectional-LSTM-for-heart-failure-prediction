@@ -147,7 +147,7 @@ By being smaller, itcan be applied in sensores and small devices like IoT or mic
 
 #### Include Credits, Authors and acknowledgment for contributions
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat fringilla eros nec mattis. Cras nec sagittis risus, vel mattis odio. Sed erat massa, commodo nec rutrum ac, tincidunt quis magna. Pellentesque non tristique ante. Phasellus convallis ante tincidunt lacus tempor aliquam. Donec quis ipsum laoreet, pretium ligula quis, pulvinar ante. Nam fringilla nunc in accumsan tempus. 
+Tiago MOnteiro
 
 </a>
 
